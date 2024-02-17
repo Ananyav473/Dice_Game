@@ -5,7 +5,7 @@ Welcome to the Dice Game GitHub repository! This is a simple dice game where pla
 ## How to Play
 
 1. **Select a Number**: Choose a number between 1 and 6.
-2. **Roll the Dice**: Click on the "Roll Dice" button to roll the dice.
+2. **Roll the Dice**: Click on dice image to roll the dice.
 3. **Score Calculation**: 
     - If the number on the dice matches your selected number, your total score increases by the number on the dice.
     - If the numbers do not match, your total score decreases by 2.
